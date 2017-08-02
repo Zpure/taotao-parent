@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="taotao-manager-pojo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/taotao-manager-pojo/target/taotao-manager-pojo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

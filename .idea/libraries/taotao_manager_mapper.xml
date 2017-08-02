@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="taotao-manager-mapper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/taotao-manager-mapper/target/taotao-manager-mapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
